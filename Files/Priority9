@@ -1,0 +1,22 @@
+PicText#What does this sign mean?|Files/128.png#railway,crossing,without,barrier
+PicText#What is the number of this sign?|Files/128.png#1.28
+Pic#Select which is sign 1.28?#Files/128.png
+Pic#Select which sign means railway crossing without barrier?#Files/128.png
+Text#Are signs 1.27 and 1.28 repeated?#yes,outside,settlements
+Text#What plates are installed with road sign 1.27 and 1.28?#1.31.1, 1.31.3, 1.31.4,1.31.6
+PicText#What does this sign mean?|Files/1316.png#80, meters, to, crossing, left
+PicText#What is the number of this sign?|Files/1316.png#1.31.6
+Pic#Select which is sign 1.31.6?#Files/1316.png
+Pic#Select which sign means 80 meters to railway crossing on the left?#Files/1316.png
+PicText#What does this sign mean?|Files/1313.png#80, meters, to, crossing, right
+PicText#What is the number of this sign?|Files/1313.png#1.31.3
+Pic#Select which is sign 1.31.3?#Files/1313.png
+Pic#Select which sign means 80 meters to railway crossing on the right?#Files/1313.png
+PicText#What does this sign mean?|Files/1314.png#300, meters, to, crossing, left
+PicText#What is the number of this sign?|Files/1314.png#1.31.4
+Pic#Select which is sign 1.31.4?#Files/1314.png
+Pic#Select which sign means 300 meters to railway crossing on the left?#Files/1314.png
+PicText#What does this sign mean?|Files/1311.png#300, meters, to, crossing, right
+PicText#What is the number of this sign?|Files/1311.png#1.31.1
+Pic#Select which is sign 1.31.1?#Files/1311.png
+Pic#Select which sign means 300 meters to railway crossing on the right?#Files/1311.png

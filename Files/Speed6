@@ -1,0 +1,21 @@
+Text#At sign 5.47 what is the permitted speed,why and what will the speed be reduced to?#90,until,turn,sign,5.63.1,50
+Text#Is the double solid line a dividing strip?#no
+PicText#What is the maximum speed for the bus?|Files/speed5.jpg#110
+Text#What is the fine for exceeding the speed limit by more than 20kmph and by which act?#255,340,uah,article 122,part 1
+Text#What is the fine for exceeding the speed limit by more than 50kmph and by which act?#510,680,uah,article 122,part 3
+Text#What if you exceed the speed limits by less than 20kmph?#warning
+Text#Rules for lighting at night or in insufficient visibility for all motor vehicles?#high,low,beam
+Text#Rules for lighting at night or in insufficient visibility for all horses,mopeds,bikes?#headlight,latern
+Text#Rules for lighting at night or in insufficient visibility for all trailers and towed vehicles?#parking,lights
+Text#What should be used during the day in adverse conditions?#fog,lights,low beam or high beam
+Text#What should be used during the night in adverse conditions?#only ,low beam or high beam
+Text#Rule for using high beam?#switch, dipped beam,no less than 250,vehicles,any,lane
+Text#What is dipped beam?#main headlights,illuminate,road,in front,shine,limited,distance,safe,low speeds
+Text#What is high beam?#shine,200,300,meters,high,speed
+Text#What are drl?#Daytime,running,lights,improve,visibility,day
+Text#What should be used during the day between 1st of october to the 1st of may outside of settlements?#drl,low beam
+Tet#What must be used after sunset even if it is not dark?#dipped beam
+Text#What must you do if you are dazzled on the road?#emergency,alarm,signal,look,right,dont,change,lane
+Text#What must you do at times of stopping during poor visibility or at night?#parking lights
+Text#What must you do at times of forced stop during poor visibility or at night?#parking lights,emergency warning lights
+Text#What must you do at times of forced stop during poor visibility or at night when the parking lights are not working?#remove,car,road,or,use,emergency,stop,sign

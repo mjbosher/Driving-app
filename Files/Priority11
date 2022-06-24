@@ -1,0 +1,21 @@
+Text#How is sign 133 installed?#twice,50,meters,before
+PicText#What does this sign mean?|Files/134.png#cyclists
+PicText#What is the number of this sign?|Files/134.png#1.34
+Pic#Select which is sign 1.34?#Files/134.png
+Pic#Select which sign warns of cyclists?#Files/134.png
+Text#Where is sign 1.34 installed?#places,cyclists,appear,crossing
+PicText#What does this sign mean?|Files/135.png#livestock, driving
+PicText#What is the number of this sign?|Files/135.png#1.35
+Pic#Select which is sign 1.35?#Files/135.png
+Pic#Select which sign warns of livestock driving?#Files/135.png
+PicText#What does this sign mean?|Files/136.png#wild animals
+PicText#What is the number of this sign?|Files/136.png#1.36
+Pic#Select which is sign 1.36?#Files/136.png
+Pic#Select which sign warns of wild animals?#Files/136.png
+Text#Why is sign 1.35 used?#road,used,driving, livestock, unfenced pastures, farms
+PicText#What does this sign mean?|Files/137.png#road, works
+PicText#What is the number of this sign?|Files/137.png#1.37
+Pic#Select which is sign 1.37?#Files/137.png
+Pic#Select which sign warns of road works?#Files/137.png
+Text#How is sign 1.37 installed?#repeated, in, outside,settlements, 50, meters, before
+Text#How far from sign 1.37 can you stop?#10, meters

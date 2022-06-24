@@ -1,0 +1,19 @@
+PicText#What does this sign mean?|Files/746.png#apply,working,days,during,time
+PicText#What is the number of this sign?|Files/746.png#7.4.6
+Pic#Select which is sign 7.4.6?#Files/746.png
+Pic#Select which plate means applies on working days during stated time?#Files/746.png
+PicText#What does this sign mean?|Files/744.png#apply,stated, time
+PicText#What is the number of this sign?|Files/744.png#7.4.4
+Pic#Select which is sign 7.4.4?#Files/744.png
+Pic#Select which plate means applies during stated time?#Files/744.png
+PicText#What does this sign mean?|Files/747.png#apply,stated, time, weekdays
+PicText#What is the number of this sign?|Files/747.png#7.4.7
+Pic#Select which is sign 7.4.7?#Files/747.png
+Pic#Select which plate means applies during stated time on weekdays?#Files/747.png
+Text#What does sign 1.38 mean when it is used with 7.4?#traffic jam,occurs,specific conditions,described,plates
+PicText#What does this sign mean?|Files/139.png#hazardous
+PicText#What is the number of this sign?|Files/139.png#1.39
+Pic#Select which is sign 1.39?#Files/139.png
+Pic#Select which plate means hazardous?#Files/139.png
+Text#What does sign mean?#dangerous section, road, traffic accidents, width of carriageway
+Text#Which plate can accompany sign 1.39?#7.21

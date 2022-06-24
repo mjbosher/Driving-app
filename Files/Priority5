@@ -1,0 +1,19 @@
+Text#Which plates can be used with 1.13?#7.13, 7.12
+Text#When driving on icy and wet roads, what should one consider?#less, grip, braking distance,increases
+Text#How can skidding or side slips occur on icy roads?#sudden braking, increase,gas
+Text#What should be the lateral distance on icy, wet roads?#3, times, more
+Text#What happens to sign 1.14 ,1.15 and 1.16 outside of settlements?#duplicated, 50 meters, before
+Text#What precautions should be taken when sign 1.14 is seen?#reduce speed,increase,lateral, safe distance
+PicText#What does this sign mean?|Files/116.png#falling,stones
+PicText#What is the number of this sign?|Files/116.png#1.16
+Pic#Select which is sign 1.16?#Files/116.png
+Pic#Select which sign warns of falling stones?#Files/116.png
+Text#Who has advantage in case of an obstacle on the road?#driver,side,obstacle,giveway, unless,uphill
+PicText#What does this sign mean?|Files/117.png#cross,winds
+PicText#What is the number of this sign?|Files/117.png#1.17
+Pic#Select which is sign 1.17?#Files/117.png
+Pic#Select which sign warns of cross winds?#Files/117.png
+PicText#What does this sign mean?|Files/118.png#low, flying, aircraft
+PicText#What is the number of this sign?|Files/118.png#1.18
+Pic#Select which is sign 1.18?#Files/118.png
+Pic#Select which sign warns of low flying aircraft?#Files/118.png

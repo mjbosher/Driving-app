@@ -1,0 +1,21 @@
+Text#What do 2 solid lines in the middle of the road signify?#No, passing
+PicText#What do the white lines signify?|Files/broken_white.jpg#passing, allowed
+PicText#What do the white lines signify?|Files/crankled_yellow.jpg#passing,allowed,from, left
+PicText#What do the white lines in the middle this signify?|Files/white.jpg#No,passing
+Text#What are yellow lines used for?#mark,lane, road vehicles, prohibit, stopping,parking
+Pic#Select which shows a lane for road vehicles#Files/a.jpg
+Pic#Select which sign shows a lane for road vehicles#Files/511.jpg
+Text#What does sign 5.11 signify#lane,road vehicles
+Text#Who can move along road vehicle lane#cyclists,taxis,road vehicles
+PicText#What does this signify?|Files/a.jpg#lane,road, vehicles
+Text#Should the road vehicle lane be moved into before or at turn?#Before, turn
+Pic#Select which sign prohibits parking and stopping#Files/stoppingprohibited.jpg
+Pic#Select which sign prohibits parking#Files/parkingprohibited.jpg
+PicText#What are the exceptions for this sign?|Files/stoppingprohibited.jpg#road vehicles,taxi,boarding,disembarking
+PicText#What are the exceptions for this sign?|Files/parkingprohibited.jpg#taxis with taximeter,disabled drivers with identification marks
+Text#What is sign 3.34#No,stopping,or,parking
+Text#What is sign 3.35#No parking
+Text#What is sign 2.3#priority road
+Text#What does sign 2.3 signify#you,have priority,intersections,until,end sign
+PicText#What does this signify?|Files/priority.jpg#you,have priority,intersections,until,end sign
+PicText#What sign is this?|Files/priority.jpg#Priority

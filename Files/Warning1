@@ -1,0 +1,20 @@
+PicText#What does this signal mean?|Files/braking1.png#braking
+PicText#What does this signal mean?|Files/braking2.png#braking
+Text#What does blinking the headlights mean?#notify,danger
+PicText#What does this signal mean?|Files/warning1.png#reversing
+Text#What are light direction indicators?#warning signals,intentions,make,maneuver
+Text#What should you do if warning turn signals dont work?#hands,no less than 50-100 meters,city,150-200 meters,outside,city
+Text#What should you do when turning in reverse?#indicators
+Text#Should you use your indicators on a curved section of the road if you arent changing lane?#no
+Text#When are drivers obliged to use left turning signal?#start,movement,right,overtaking,changing,extreme,left,bypassing,left,turning,left,u-turn,stopping,left,edge
+Text#When are drivers obliged to use the right signal?#movement,left,changing,extreme,right,turning,bypassing
+Text#When can you use sound signals in the city?#prevent,accidents
+Text#Are sound signals illegal when sign 5.47 is seen?#no,unless,sign,indicates
+Text#Outside of settlements what can sound signals be used for?#short burst,notify,overtaking
+Text#What can be used to notify driver of overtaking?#headlights,sound signal
+Text#What headlight should not be used when notifying drivers of maneuvers?#high beam
+PicText#Does this orange light give any advantage?|Files/orange1.jpg#no
+Text#What must you use in tunnels?#low beam
+PicText#Answer the question!|Files/warning2.png#2
+PicText#What does this button do?|Files/hazard.jpg#hazard lights
+Text#What happens when hazard lights are activated?#all,indicators,flash

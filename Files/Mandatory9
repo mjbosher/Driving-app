@@ -1,0 +1,20 @@
+PicText#What does this sign mean?|Files/45.jpg#move,straight, left
+PicText#What is the number of this sign?|Files/45.jpg#4.5
+Pic#Select which is sign 4.5?#Files/45.jpg
+Pic#Select which sign means move straight or to the left?#Files/45.jpg
+Text#Which movement does sign 4.5 allow?#straight, left, u-turn
+PicText#What does this sign mean?|Files/46.png#move,left, right
+PicText#What is the number of this sign?|Files/46.png#4.6
+Pic#Select which is sign 4.6?#Files/46.png
+Pic#Select which sign means move to the left or right?#Files/46.png
+Text#Which movement does sign 4.6 allow you to do?#right, left, u-turn
+Text#Which movement does sign 4.6 not allow you to do?#move,straight
+PicText#What does this sign mean?|Files/47.jpg#detour,obstacle,right
+PicText#What is the number of this sign?|Files/47.jpg#4.7
+Pic#Select which is sign 4.7?#Files/47.jpg
+Pic#Select which sign means allowed to detour from the right?#Files/47.jpg
+PicText#What does this sign mean?|Files/48.png#detour,obstacle,left
+PicText#What is the number of this sign?|Files/48.png#4.8
+Pic#Select which is sign 4.8?#Files/48.png
+Pic#Select which sign means allowed to detour from the left?#Files/48.png
+Text#Is detouring considered a turn?#no

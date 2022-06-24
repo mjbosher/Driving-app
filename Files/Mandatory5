@@ -1,0 +1,20 @@
+Pic#Select which is sign 3.13?#Files/313.png
+Pic#Select which sign means movement is prohibited for vehicles carrying explosives?#Files/313.png
+PicText#What does this sign mean?|Files/314.png#movement,prohibited,vehicles,carrying,substances,pollute,water
+PicText#What is the number of this sign?|Files/314.png#3.14
+Pic#Select which is sign 3.14?#Files/314.png
+Pic#Select which sign means movement is prohibited for vehicles carrying substances that pollute water?#Files/314.png
+PicText#Which sign prohibits this plate?|Files/orangeplate.jpg#3.14
+Text#What else does 3.14 prohibit?#vehicles,carrying,environmentally,hazardous
+PicText#What does this sign mean?|Files/315.png#movement,vehicles,exceed,mass
+PicText#What is the number of this sign?|Files/315.png#3.15
+Pic#Select which is sign 3.15?#Files/315.png
+Pic#Select which sign means movement is prohibited for vehicles which exceed stated mass?#Files/315.png
+PicText#What does this sign mean?|Files/316.png#movement,prohibited,vehicles,weight,axle,greater
+PicText#What is the number of this sign?|Files/316.png#3.16
+Pic#Select which is sign 3.16?#Files/316.png
+Pic#Select which sign means movement is prohibited for vehicles who weight on any axle is greater than the stated amount?#Files/316.png
+PicText#What does this sign mean?|Files/317.png#movement,prohibited,vehicles,width,exceeds,stated
+PicText#What is the number of this sign?|Files/317.png#3.17
+Pic#Select which is sign 3.17?#Files/317.png
+Pic#Select which sign means movement is prohibited for vehicles with a width greater than stated?#Files/317.png

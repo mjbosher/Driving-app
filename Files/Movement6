@@ -1,0 +1,21 @@
+PicText#Who has the right of way?|Files/movement19.jpg#blue
+Text#When moving uphill who has the advantage?#moving,up,hill
+PicText#What does the numbers mean on the sign?|Files/16.png#every,100 meters,10 meters,rise,fall
+PicText#What does this sign mean?|Files/16.png#upwards,slope
+PicText#What is the number of this sign?|Files/16.png#1.6
+Pic#Select which is sign 1.6?#Files/16.png
+Pic#Select which sign means upward slope?#Files/16.png
+PicText#What does this sign mean?|Files/17.jpg#downwards,slope
+PicText#What is the number of this sign?|Files/17.jpg#1.7
+Pic#Select which is sign 1.7?#Files/17.jpg
+Pic#Select which sign means downwards slope?#Files/17.jpg
+PicText#What does this sign mean?|Files/25.png#giveway,oncoming,vehicles
+PicText#What is the number of this sign?|Files/25.png#2.5
+Pic#Select which is sign 2.5?#Files/25.png
+Pic#Select which sign means give way to oncoming vehicles?#Files/25.png
+PicText#What does this sign mean?|Files/26.jpg#priority,over,oncoming vehicles
+PicText#What is the number of this sign?|Files/26.jpg#2.6
+Pic#Select which is sign 2.6?#Files/26.jpg
+Pic#Select which sign means priority over oncoming vehicles?#Files/26.jpg
+Text#In signs 2.6 and 2.5 which size arrow is the arrow that has to give way#short
+Text#Can motorcycles pass signs 1.5 and 1.6?#if,sure,not,obstacle

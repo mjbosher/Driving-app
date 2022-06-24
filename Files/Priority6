@@ -1,0 +1,19 @@
+PicText#What does this sign mean?|Files/119.png#intersection,with,roundabout
+PicText#What is the number of this sign?|Files/119.png#1.19
+Pic#Select which is sign 1.19?#Files/119.png
+Pic#Select which sign warns of intersection with a roundabout?#Files/119.png
+PicText#What does this sign mean?|Files/120.png#intersection,tram,tracks
+PicText#What is the number of this sign?|Files/120.png#1.20
+Pic#Select which is sign 1.20?#Files/120.png
+Pic#Select which sign warns of intersection with tram tracks?#Files/120.png
+PicText#What does this sign mean?|Files/121.png#crossing, equivalent, roads
+PicText#What is the number of this sign?|Files/121.png#1.21
+Pic#Select which is sign 1.21?#Files/121.png
+Pic#Select which sign warns of crossing equivalent roads?#Files/121.png
+PicText#What does this sign mean?|Files/122.png#intersection,with,secondary,road
+PicText#What is the number of this sign?|Files/122.png#1.22
+Pic#Select which is sign 1.22?#Files/122.png
+Pic#Select which sign warns of intersection with secondary road?#Files/122.png
+Text#What does the thin line mean on sign 1.22?#secondary,road
+Text#What does the thick line mean in sign 1.22?#main,road
+Text#Which road in sign 1.22 has the advantage?#main,road

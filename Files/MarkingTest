@@ -1,0 +1,11 @@
+PicText#What do the arrows mean?|Files/narrowarrow.jpg#warns,approaching,narrowing
+PicText#Are you allowed to advance here?|Files/reverselanelights.jpg#no
+Text#Are you allowed to advance in the reversible lane if reversible traffic light is off?#no
+PicText#Which car does not violate the traffic rules?|Files/violate.jpg#blue
+PicText#Are you allowed, in a passenger car, to continue movement in the right lane?|Files/violate1.jpg#no
+PicText#What do the dashed marking lines on the right side from the driver mean?|Files/acelzone.jpg#boundary,main traffic lane,deceleration lane
+PicText#Are you allowed to park here?|Files/violate2.jpg#no
+PicText#Are you allowed to park here?|Files/violate3.jpg#no
+PicText#Which direction can you by pass this obstacle?|Files/route.jpg#b
+PicText#Are you allowed to stop here to drop off passengers?|Files/violate3.jpg#yes
+PicText#Which maneuvers can you do here?|Files/man.jpg#left,u-turn

@@ -1,0 +1,21 @@
+PicText#What does this sign mean?|Files/111.png#bump
+PicText#What is the number of this sign?|Files/111.png#1.11
+Pic#Select which is sign 1.11?#Files/111.png
+Pic#Select which sign warns of bump?#Files/111.png
+Text#When else can sign 1.11 be used?#artificial,bump,forcibly, limit, speed
+PicText#What does this sign mean?|Files/112.png#dip
+PicText#What is the number of this sign?|Files/112.png#1.12
+Pic#Select which is sign 1.12?#Files/112.png
+Pic#Select which sign warns of dip?#Files/112.png
+Text#When else can sign 1.12 be used?#potholes
+PicText#What does this sign mean?|Files/113.png#slippery, road
+PicText#What is the number of this sign?|Files/113.png#1.13
+Pic#Select which is sign 1.13?#Files/113.png
+Pic#Select which sign warns of slippery road?#Files/113.png
+PicText#What does this sign mean?|Files/712.png#above,sign,applies,winter,conditions
+PicText#What is the number of this sign?|Files/712.png#7.12
+Pic#Select which is sign 7.12?#Files/712.png
+Pic#Select which plate means that the above sign applies in winter conditions?#Files/712.png
+PicText#What does this sign mean-?|Files/713.png#above, sign, applies, bad, weather
+PicText#What is the number of this sign?|Files/713.png#7.13
+Pic#Select which is sign 7.13?#Files/713.png

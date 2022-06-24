@@ -1,0 +1,22 @@
+Text#What is the maximum number of lanes that can be on a road#3 lanes
+PicText#How many lanes are on this road?|Files/3lane.jpg#3
+PicText#What does the yellow line mean?|Files/stoppingprohibitedline.jpg#stopping is prohibited
+PicText#What does the yellow line mean?|Files/parkingprohibitedline.jpg#parking is prohibited
+Pic#Select which road marking shows that parking is prohibited#Files/parkingprohibitedline.jpg
+Pic#Select which road marking shows that stopping is prohibited#Files/stoppingprohibitedline.jpg
+PicText#Can you stop here?|Files/parkingprohibitedline.jpg#yes
+PicText#Can you stop here?|Files/stoppingprohibitedline.jpg#no
+PicText#What does this indicate?|Files/crankled_yellow.jpg#place,stopping,road vehicles,taxis
+PicText#What are the rules for ordinary drivers stopping near this?|Files/crankled_yellow.jpg#no closer,30 meters,either side
+PicText#Is crossing this line during movement allowed|Files/crankled_yellow.jpg#yes
+Text#Can you stop at the yellow solid line at the edge of the road?#no
+Text#Can you stop at the yellow dashed line at the edge of the road?#yes
+Text#What does the yellow crankled line indicate?#place,stopping,road vehicles,taxis
+Text#What are the rules for ordinary drivers stopping near the yellow crankled line?#no closer,30 meters,either side
+Text#Is crossing the yellow crankled line allowed during movement?#yes
+PicText#What would you do in this situation?|Files/situation1.jpg#stop,30 meters,after,line
+PicText#What does this marking indicate?|Files/noparking2.png#place,parking,prohibited
+Text#What are the rules for stopping at the intersection?#cant stop,10 meters from ,intersection,unless,giving,way,pedestrians,vehicles
+PicText#What marking is this?|Files/waffleiron.jpg#waffle iron
+PicText#What does this mean and why is it used?|Files/waffleiron.jpg#must not,traffic jam,obstacle
+Text#What does the waffle iron mean and why is it used?#must not,traffic jam,obstacle

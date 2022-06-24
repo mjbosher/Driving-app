@@ -1,0 +1,21 @@
+Text#Where can the technical speed determined by the technical charcteristics of the vehicle be found?#vehicle,registration,document
+Text#Why is the driver prohibited from exceeding the speed determined by the technical charcteristics of the vehicle?#loose,stability,engine parts,transmission,tires,damaged
+Text#What is the rule about moving at a slow speed?#driver,prohibited,unnecessarily,very,low,speed,follow,speed,traffic
+Text#Can you sharp brake?#no,only,prevent,accidents,driver,behind,not,time,react
+PicText#What does this sign mean?|Files/531.jpg#residential,zone
+PicText#What is the number of this sign?|Files/531.jpg#5.31
+Pic#Select which is sign 5.31?#Files/531.jpg
+Pic#Select which sign means residential zone?#Files/531.jpg
+PicText#What does this sign mean?|Files/532.jpg#residential zone,ends
+PicText#What is the number of this sign?|Files/532.jpg#5.32
+Pic#Select which is sign 5.32?#Files/532.jpg
+Pic#Select which sign means end of residential zone?#Files/532.jpg
+PicText#What does this sign mean?|Files/545.jpg#beginning,settlement,town,city
+PicText#What is the number of this sign?|Files/545.jpg#5.45
+Pic#Select which is sign 5.45?#Files/545.jpg
+Pic#Select which sign means beginning of settlement,town,city?#Files/545.jpg
+PicText#What does this sign mean?|Files/547.jpg#beginning,village
+PicText#What is the number of this sign?|Files/547.jpg#5.47
+Pic#Select which is sign 5.47?#Files/547.jpg
+Pic#Select which sign means beginning of village?#Files/547.jpg
+Text#Who has advantage in residential areas?#pedestrians

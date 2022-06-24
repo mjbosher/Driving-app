@@ -1,0 +1,21 @@
+Text#What are the categories of road markings?#Horizontal,Vertical
+Text#Where are horizontal markings applied?#road,surface
+Text#Where are vertical markings applied?#Surface,structures,road
+Pic#Select which is a horizontal marking#Files/horizontal.jpg
+Pic#Select which is a vertical marking#Files/vertical.jpg
+Text#When should the markings be visible and at what distance?#visible, day,night,distance,ensures,traffic,safety
+Text#What is done when there is difficulty for road users to see markings?#Road signs
+Text#What colors can horizontal markings be?#orange,blue,yellow,white,red
+Text#What color are temporary markings?#Orange
+PicText#What type of marking is this?|Files/orange.jpg#Temporary
+Text#Which markings have the highest priority?#Temporary
+Text#Which markings have a higher priority temporary or permanent?#Temporary
+Text#What color are permanent markings?#White
+PicText#What type of marking is this?|Files/white.jpg#Permanent
+Text#What color of markings show place in carriageway where parking is allowed?#Blue
+Text#What do blue markings show?#Parking,allowed
+PicText#What does this signify?|Files/blue.jpg#Parking,allowed
+Text#What color lines mark the center of a two way road?#White
+Text#What does broken white lines mean in the center of the road?#Passing,allowed
+Text#What does solid white lines mean in the center of the road?#No passing
+Text#Can you pass if solid and broken white lines are together and you are closest to the solid line?#No,

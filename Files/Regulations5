@@ -1,0 +1,21 @@
+Text#How to identify tram lights?#4 signals,letter t
+PicText#Which direction can the tram move?|Files/tram1.png#forward,left
+PicText#Which direction can the tram move?|Files/tram2.png#forward,right
+PicText#Which direction can the tram move?|Files/tram3.png#forward
+PicText#Which direction can the tram move?|Files/tram4.png#cant,move
+Text#When can trams move according to the tram lights?#top light, bottom light
+Text#What happens if there is a tram light malfunction?#follow,traffic lights
+Text#What do railroad traffic lights have?#2 red signals,1 moon signal
+Text#What do flashing red or permanent red railroad crossing lights mean?#not allowed,move
+Text#What does a flashing moon signal mean on the rail road lights?#traffic lights,working,allowed,move
+Text#Can railroad crossings be without lights?#yes,signs
+Text#What do sound signals at the railroad crossing mean?#not allowed,move
+Text#What happens to a regulated pedestrian crossing if pedestrian lights not working?#unregulated pedestrian crossing,pedestrians,right of way
+Text#What happens when there is a traffic guard?#signs,markings,lights,void,follow,traffic guard
+Text#Who can be a traffic guard?#police,military inspection of road safety,railroad officer,road maintenance
+PicText#What does this signal mean?|Files/guards1.jpg#cant move
+Text#What does it mean when traffic guard has his arms out to the side,lowered or right arm bent to his chest?#tram,straight,cars,straight,to right,pedestrians,cross
+Text#When What traffic guard has his arms out to the side,lowered or right arm bent to his chest where is movement prohibited?#in front of, chest, back
+Text#What does it mean for trams behind the trafffic guards back from the left when he has his arm extended forward on the left side?#tram,left
+Text#What does it mean for non-rail road users behind the trafffic guards back from the left when he has his arm extended forward on the left side?#any,direction
+Text#What does it mean for pedestrians behind the traffic guards back from the left when he has his arm extended on the left side#cross,behind,back

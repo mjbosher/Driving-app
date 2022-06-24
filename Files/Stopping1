@@ -1,0 +1,21 @@
+Text#What does to stop a vehicle mean?#stop,remain,stationary,more,5 minutes,with/without, driver
+Text#When can the time for stopping be longer?#embark/disembark passengers,load/unload goods
+Text#What is parking?#stop longer,necessary,embark/disembark passengers,load/unload goods
+Text#What are the exceptions to parking/stopping rules?#avoid collisions and accidents,disabled drivers,condition of the driver or passenger,medical emergency,obey,police
+Text#Where are drivers permitted to stop?#as,close,possible,right edge,road,not,obstruct,road users
+Text#What should a stopped car not do?#block exits,reduce,visibility,road signs,traffic lights
+Text#When is stopping not considered stopping?#stopping in congested traffic,stopping as part of a maneuver
+Text#When do the driving rules request the driver to stop?#prohibition signal from traffic lights or traffic guard,road signs,road markings,giving advantage to other vehicles
+Text#If there is a shoulder on the road where can you stop?#only, shoulder
+Text#At a railroad crossing if there is no road markings where should you stop?#before,red rail light
+Text#If there is no giveway marking where should you stop?#in front of,intersected,carriageway,not,interfere,movement, pedestrians
+Text#If there is no traffic lights or markings at a railroad crossing where should you stop?#In front of the barrier
+Text#How far from the railroad crossing must you stop?#no,closer,10,meters
+PicText#What does this sign mean?|Files/340.jpg#stop at customs,required
+PicText#What is the number of this sign?|Files/340.jpg#3.40
+Pic#Select which is sign 3.40?#Files/340.jpg
+Pic#Select which sign means stop at customs, required?#Files/340.jpg
+PicText#What does this sign mean?|Files/341.jpg#stop for other road control
+PicText#What is the number of this sign?|Files/341.jpg#3.41
+Pic#Select which is sign 3.41?#Files/341.jpg
+Pic#Select which sign means stop for other road control?#Files/341.jpg

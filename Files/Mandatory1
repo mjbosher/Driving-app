@@ -1,0 +1,20 @@
+Text#What shape are prohibition signs?#circle
+Text#What color are prohbition signs?#white background,red border
+Text#What color prohibition border imposes restrictions?#red
+Text#What color prohbition border cancels restrictions?#black
+Text#Where are the restrictions imposed for a prohibition sign?#in front of,sign,unless,plate,distance
+PicText#What does this sign mean?|Files/331.png#50, speed,limit,zone
+PicText#What is the number of this sign?|Files/331.png#3.31
+Pic#Select which is sign 3.31?#Files/331.png
+Pic#Select which sign means 50 km speed limit zone?#Files/331.png
+Text#Which prohibition signs are not shaped as a circle?#3.31,3.32,3.38,3.39
+Text#Where do prohibition signs end?#nearest,intersection
+Text#Where do prohibition signs end in the settlement if there are no intersections?#end,settlement
+Text#When do square prohibition signs end?#cancel,sign
+PicText#What does this sign mean?|Files/31.png#movement,prohibited,road,closed,all,traffic
+PicText#What is the number of this sign?|Files/31.png#3.1
+Pic#Select which is sign 3.1?#Files/31.png
+Pic#Select which sign means movement is prohibited or road is closed to all traffic?#Files/31.png
+Text#Why is sign 3.1 used?#road,unsuitable,vehicles,pedestrian,zone
+Text#What are the exceptions for sign 3.1?#live,work,drivers,disabilities
+Text#What can be used with prohibition signs to show the direction?#direction,plates

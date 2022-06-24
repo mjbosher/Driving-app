@@ -1,0 +1,19 @@
+PicText#What does this sign mean?|Files/414.png#lane,pedestrian,cyclists
+PicText#What is the number of this sign?|Files/414.png#4.14
+Pic#Select which is sign 4.14?#Files/414.png
+Pic#Select which sign means lane for pedestrians and cyclists?#Files/414.png
+PicText#What does this sign mean?|Files/415.png#bridlepath
+PicText#What is the number of this sign?|Files/415.png#4.15
+Pic#Select which is sign 4.15?#Files/415.png
+Pic#Select which sign means bridlepath?#Files/415.png
+Text#Who can move when they see sign 4.15?#only,riders
+Text#What sign can be used to limit sign 4,16 to a specific lane?#plate, 7.9
+PicText#What does this sign mean?|Files/79.png#applies,this,lane,only
+PicText#What is the number of this sign?|Files/79.png#7.9
+Pic#Select which is sign 7.9?#Files/79.png
+Pic#Select which sign means applies,this,lane,only?#Files/79.png
+PicText#What does this sign mean?|Files/danger.png#danger
+Pic#Select which is sign danger?#Files/danger.png
+Pic#Select which sign means danger?#Files/danger.png
+Pic#Which sign can accompany the danger sign?#Files/orangeplate.jpg
+Text#Which two signs can be used together to mean danger?#orange plate, danger

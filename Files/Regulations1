@@ -1,0 +1,20 @@
+Text#What/whom regulates road traffic?#signs, road equipment,traffic lights,markings,traffic guards
+Text#Which have precedence road markings or road signs?#road signs
+Text#Two types of Road signs?#permanent,temporary
+Text#Can signs have changeable information?#yes
+Text#Where are temporary road signs placed?#portable devices,road equipment,fixed on a shield with a yellow background
+Text#Which have priority temporary or permanent road signs?#temporary
+Text#Rules about road sign visibility#road signs,clearly seen,day,night, not hidden by obstacles
+Text#At what distance should road signs be visible?#100 meters, direction of movement,no higher than, 6 meters above the carriageway
+Text#Which side of the road are road signs placed on?#side,direction of movement
+Text#What happens with road signs if there is more than one lane?#duplicated,median strip,opposite side of the road
+PicText#3 ways to turn into the arch?|Files/uturn1.jpg#intersection,u-turn before,reverse,after
+Text#What cancels priority signs?#traffic lights,except,yellow
+PicText#What does this sign mean?|Files/42.jpg#turn right only
+PicText#What is the number of this sign?|Files/42.jpg#4.2
+Pic#Select which is sign 4.2?#Files/42.jpg
+Pic#Select which sign means turn right only?#Files/42.jpg
+PicText#What does this sign mean?|Files/45.jpg#proceed straight or turn left
+PicText#What is the number of this sign?|Files/45.jpg#4.5
+Pic#Select which is sign 4.5?#Files/45.jpg
+Pic#Select which sign means proceed straight or turn left?#Files/45.jpg

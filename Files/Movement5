@@ -1,0 +1,19 @@
+Text#Under which circumstances can we move on the tramline?#same direction,not prohibited by signs,advances,carriageway,too small,obstacle
+Text#Can you move on oncoming tramline?#no
+PicText#Can you move on the tramline when you see this sign?|Files/516.jpg#no
+PicText#Which ways are allowed?|Files/movement17.jpg#b  
+Text#When are you allowed to drive on a reverse lane?#reverse, light,green
+PicText#Which ways are allowed?|Files/movement18.jpg#b
+Text#At which point can a driver move onto the reverse lane?#after,reverse traffic, light  
+Text#Can you move along the reverse traffic lane when the reverse traffic light is off?#no
+Text#What is the general rule for safe distance?#half,vehicles,speed,meters,car,travels,2 seconds
+Text#What should the general rule for safe distance be under difficult conditions?#speed,in,meters
+PicText#What does this sign mean?|Files/320.png#maintain,distance,70 meters
+Pic#Select which is sign 3.20?#Files/320.png
+Pic#Select which sign means the driver must maintain a distance of 70 meters?#Files/320.png
+Text#What is it called when you drive close to the car in front of you?#tailgating
+Text#In a traffic jam what is safe distance?#3 meters
+Text#break down the safe distance time?#recognition and reaction,braking,braking margin
+Text#What is lateral interval?#distance,side,vehicles
+Text#What is the rule for passing oncoming vehicles when there is no sign?#vehicle,creates,obstacle,give way
+Text#If moving into the oncoming lane to avoid an obstacle what must be done?#left,signal

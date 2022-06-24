@@ -1,0 +1,22 @@
+Text#What must you do if you see road sign 3.40 or 3.41?#stop,in front
+Text#When stopping to load/unload cargo, embark/disembark passengers what must you do?#extreme lane,turning signal,direction of movement
+Text#Possible reason for a forced stop?#technical malfunction,medical condition,driver,problems,cargo
+Text#What must the driver do during forced stop if it is in a place where stopping is prohibited?#emergency alarm,all possible measures,take,from,road
+Text#What must the driver do during a forced stop if it is in a place where stopping is prohibited and he cannot move it from the road?#necessary precautions,warn,drivers
+Text#During a forced stop in a place where stopping is prohibited what must be done if obervability for other drivers is less than 100 meters in the city?#emergency stop sign, no less than, 20 meters
+Text#During a forced stop in a place where stopping is prohibited what must be done if obervability for other drivers is less than 100 meters outside of the city?#emergency stop sign, no less than, 40 meters
+Text#Where can passengers be dropped off?#only on the sidewalk
+Text#Where should a car be parked if there is no shoulder?#as close,sidewalk,possible
+Text#Where may stopping not occur?#cycle,pedestrian, paths,outer pavement
+Text#What is the general principle for choose a place for stopping/parking?#standing car, not interfere,road users,block exits,visibility,road signs,traffic lights
+Text#Where should you park or stop if there is a shoulder?#only on,shoulder
+Text#What happens if the shoulder has the same surface as the carriageway?#separated,solid line
+Text#If there is no shoulder or stop and parking there is impossible,what should you do?#stop,far,right,possible
+PicText#What does this sign mean?|Files/115.jpg#uneven,road,shoulder
+PicText#What is the number of this sign?|Files/115.jpg#1.15
+Pic#Select which is sign 1.15?#Files/115.jpg
+Pic#Select which sign means uneven road shoulder?#Files/115.jpg
+PicText#What does this sign mean?|Files/114.jpg#loose,road,surface
+PicText#What is the number of this sign?|Files/114.jpg#1.14
+Pic#Select which is sign 1.14?#Files/114.jpg
+Pic#Select which sign means loose road surface?#Files/114.jpg

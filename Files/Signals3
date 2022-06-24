@@ -1,0 +1,20 @@
+Text#What should the size of an unaccompanied convoy be?#groups,5
+Text#Can you overtake an unaccompanied convoy?#yes,if,more,than,1,lane
+Text#What should a convoy do when it stops on the road?#each,member,emergency alarm
+Text#In a residential area who has advantage on the road?#pedestrians
+Text#When entering a residential area who must you giveway to?#pedestrians,cyclists
+Text#When leaving a residential area who must you giveway to?#all,road,users
+Text#When can you enter a residential area?#live,work
+Text#Can you park next to the residential area sign?#no
+Text#Who can drive in a residential zone?#live,work,disabilities
+Text#Are residential zones and residential area adjacent territory?#yes
+PicText#What does this sign mean?|Files/53.jpg#road,for,cars
+PicText#What is the number of this sign?|Files/53.jpg#5.3
+Pic#Select which is sign 5.3?#Files/53.jpg
+Pic#Select which plate means road for cars?#Files/53.jpg
+Text#Who can drive on a road for cars?#cars,trucks,motorcycles,buses
+Text#Who cant move on a road for cars?#pedestrians,bicycles,livestock,tractors
+Text#Minimum speed for motorways?#40,kmph
+Text#Where can vehicles exceeding 3.5 tons drive?#first,second,lane,except,turning
+Text#Which maneuvers are not allowed on the motorway?#stopping,parking,reversing,learners,u-turns
+Text#Can you make a u-turn on a road for cars?#yes,intersections,if,sign

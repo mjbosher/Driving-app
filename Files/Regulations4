@@ -1,0 +1,19 @@
+PicText#Answer the question?|Files/question4.png#3
+Text#What does a signal in the form of a green arrow in the additional section with a red or yellow traffic light mean?#allows,movement,must,give way
+PicText#Which vehicle will be first to pass through the intersection?|Files/question5.png#red
+Text#what does a green arrow on a plate installed at the level of a red traffic light with a vertical arrangement of signals mean?#allows movement, indicated direction,red traffic light, on,extreme right lane
+Text#On a one-way road when there is a green arrow on a plate installed at the level of a vertical traffic light which lane can be turned from?#the extreme left
+Text#Rules for drivers who are turning at the traffic light with a green arrow on a plate at the level of the red light?#give way, all, road users
+PicText#What should a driver of red car do when he is going to turn right?|Files/question6.png#give way, all, road,users
+Text#what must a driver who entered an intersection on permitted traffic light do?#finish,maneuver,regardless,exit,traffic light
+Text#what must a driver who entered an intersection on permitted traffic light do if there are stop signs or markings?#follow,signals,each,traffic,light
+PicText#Answer the question?|Files/question7.png#2
+PicText#Answer the question?|Files/question8.png#2
+Text#Can you enter an intersection if a traffic jam has form?#no,if,create,obstacle
+PicText#What does this sign mean?|Files/513.jpg#street with reversible lane begins
+PicText#What is the number of this sign?|Files/513.jpg#5.13
+Pic#Select which is sign 5.13?#Files/513.jpg
+Pic#Select which sign means street with reversible lane begins?#Files/513.jpg
+Text#How to enter reverse lane?#enter,after,passing,green,arrow
+Text#What happens to reverse lane when reverse lane lights are off?#median stip
+Text#Can you move on the median strip?#no

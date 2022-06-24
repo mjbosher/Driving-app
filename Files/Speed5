@@ -1,0 +1,21 @@
+PicText#What is the allowed speed limit of the white car?|Files/speed1.jpg#20
+PicText#What does this sign mean?|Files/533.jpg#pedestrian zone
+PicText#What is the number of this sign?|Files/533.jpg#5.33
+Pic#Select which is sign 5.33?#Files/533.jpg
+Pic#Select which sign means pedestrian zone?#Files/533.jpg
+PicText#What is the allowed speed limit of the truck?|Files/speed2.jpg#20
+PicText#What does this sign mean?|Files/530.jpg#recommended, speed
+PicText#What is the number of this sign?|Files/530.jpg#5.30
+Pic#Select which is sign 5.30?#Files/530.jpg
+Pic#Select which sign means recommended speed?#Files/530.jpg
+PicText#What does this sign mean?|Files/416.jpg#minimum,speed,limit
+PicText#What is the number of this sign?|Files/416.jpg#4.16
+Pic#Select which is sign 4.16?#Files/416.jpg
+Pic#Select which sign means minimum speed limit?#Files/416.jpg
+PicText#What is the allowed speed limit of the yellow car?|Files/speed3.jpg#50
+PicText#What is the allowed speed limit of the truck and the drivers experience?|Files/speed3.jpg#70,less,2,years
+Text#What is considered to be the organised transport of gchildren?#10,more
+PicText#What does this sign mean?|Files/5631.png#built up area begins
+PicText#What is the number of this sign?|Files/5631.png#5.63.1
+Pic#Select which is sign 5.63.1?#Files/5631.png
+Pic#Select which sign means built up area begins?#Files/5631.png

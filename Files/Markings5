@@ -1,0 +1,22 @@
+PicText#What does this sign indicate?|Files/21.jpg#give,way
+PicText#What sign number is this?|Files/21.jpg#2.1
+PicText#What does this sign indicate?|Files/21.jpg#stop,give,way,vehicles,moving,intersection
+PicText#What does the triangular markings mean?|Files/givewayline.jpg#stop,give,way,vehicles,moving,intersection
+PicText#What does this sign indicate?|Files/5352.jpg#pedestrian crossing,left
+PicText#What sign number is this?|Files/5352.jpg#5.35.2
+PicText#Who has the advantage here?|Files/zebra.jpeg#pedestrian
+PicText#What does this mean?|Files/redzebra.jpg#pedestrian crossing,dangerous,place
+Pic#Select which is an unregulated crossing for blind pedestrians #Files/blindzebra.png
+PicText#What does this mean?|Files/blindzebra.png#crossing,blind
+Text#At a crossing, what should be done when the light is green?#pedestrians,finish
+PicText#What does this mean?|Files/crossing.jpg#regulated,pedestrian,crossing
+PicText#What does this mean?|Files/47.jpg#keep,right
+PicText#What is the sign number for this?|Files/47.jpg#4.7
+PicText#What does this mean?|Files/412.jpg#cycle,crossing
+PicText#What is the sign number for this?|Files/412.jpg#4.12
+PicText#What does this mean?|Files/cyclecrossing.jpg#cycle,crossing
+Text#At a cycle crossing who has right of way?#road,vehicles
+PicText#What does this mean?|Files/134.jpg#watch,cyclists
+PicText#What is the sign number for this?|Files/134.jpg#1.34
+PicText#What does this sign mean?|Files/trafficisland.jpg#traffic,island
+Text#What do traffic islands signify?#traffic flow,opposite direction

@@ -1,0 +1,21 @@
+Text#When can you park on an ascent/descent?#visibility,top,no less than,100 meters
+Text#What determines how vehicles should be parked?#sign,plates
+Text#When can all types of vehicles be parked according to the plate?#plate,shows,parallel parking
+Text?#If the parking plate does not show the car parked parallel to curb, who can park?#only,cars,motorcycles
+Text#Which side of the road do prohibition signs affect?#side,on,to,next,junction
+Text#When parking on the sidewalk how much space should be left for pedestrians?#2 meters
+Text#Is parking on the sidewalk allowed if there is a lawn?#no
+Text#if you need to stop before a dangerous place how much space should you leave before/after the danger?#at least,10 meters
+PicText#Answer the question?|Files/stopping4.png#4
+Text#If you want to stop you car and there is a solid lane, how much space should be left?#3 meters
+Text#When can you enter onto the tram tracks?#board,disembark passengers,tram,same direction
+Text#Where is stopping prohibited?#bridges,flyovers,tunnels,overpasses,due,limited capacity,limited observability
+Text#Can you stop on a pedestrian crossing?#no,10 meters,both sides,unless,giving way,pedestrians
+Text#Can you stop at adjacent territories?#no, 10 meters,both sides,unless,giving way,other vehicles
+PicText#Answer the question?|Files/stopping5.png#3
+Text#Can you stop near road works?#no, 10 meters
+Text#Can you stop near road vehicle stoppings?#no,30 meters
+Text#Rules about signs and stopping?#vehicle,should not,cover,signs,signals
+Text#Can you stop on bouldevards with a dividing strip?#no
+PicText#Can the car park there?|Files/stopping6.png#yes,solid line,t-junction
+Text#Does prohibition signs work before or after the sign?#before

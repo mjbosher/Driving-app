@@ -1,0 +1,22 @@
+PicText#What does this sign mean?|Files/1231.png#secondary,road,adjoins,right
+PicText#What is the number of this sign?|Files/1231.png#1.23.1
+Pic#Select which is sign 1.23.1?#Files/1231.png
+Pic#Select which sign means secondary road adjoins from the right?#Files/1231.png
+PicText#What does this sign mean?|Files/1232.png#secondary,road,adjoins,left
+PicText#What is the number of this sign?|Files/1232.png#1.23.2
+Pic#Select which is sign 1.23.2?#Files/1232.png
+Pic#Select which sign means secondary road adjoins from the left?#Files/1232.png
+PicText#What does this sign mean?|Files/1233.png#staggered,crossroads,first,right
+PicText#What is the number of this sign?|Files/1233.png#1.23.3
+Pic#Select which is sign 1.23.3?#Files/1233.png
+Pic#Select which sign means staggered crossroadds with first on the right?#Files/1233.png
+PicText#What does this sign mean?|Files/1234.png#staggered,crossroads,first,left
+PicText#What is the number of this sign?|Files/1234.png#1.23.4
+Pic#Select which is sign 1.23.4?#Files/1234.png
+Pic#Select which sign means staggered,crossroads,first,left?#Files/1234.png
+Text#Distance between secondary roads in cities?#50 meters
+Text#Distance between secondary roads outside of cities?#100 meters
+PicText#What does this sign mean?|Files/124.png#traffic light, regulation
+PicText#What is the number of this sign?|Files/124.png#1.24
+Pic#Select which is sign 1.24?#Files/124.png
+Pic#Select which sign means traffic light regulation?#Files/124.png

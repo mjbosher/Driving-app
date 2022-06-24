@@ -1,0 +1,20 @@
+PicText#What does this sign mean?|Files/18.png#exit,embankment,coast
+PicText#What is the number of this sign?|Files/18.png#1.8
+Pic#Select which is sign 1.8?#Files/18.png
+Pic#Select which sign means exit to the embankment or coast?#Files/18.png
+PicText#What does this sign mean?|Files/711.png#approach,ferry
+PicText#What is the number of this sign?|Files/711.png#7.11
+Pic#Select which is sign 7.11?#Files/711.png
+Pic#Select which sign means approach to ferry?#Files/711.png
+Text#What does it mean when 1.8 is used with 7.11?#exit,ferry
+PicText#What does this sign mean?|Files/19.png#approaching, tunnel
+PicText#What is the number of this sign?|Files/19.png#1.9
+Pic#Select which is sign 1.9?#Files/19.png
+Pic#Select which sign means approaching tunnel?#Files/19.png
+Text#What maneuver cant be made in tunnels?#stopping,parking,overtaking,u-turn,reverse
+Text#What maneuvers cant be made before entrance,after exit of tunnel?#reverse
+Text#How to tell if warning sign is temporary?#yellow,background
+PicText#What does this sign mean?|Files/110.png#rough, road
+PicText#What is the number of this sign?|Files/110.png#1.10
+Pic#Select which is sign 1.10?#Files/110.png
+Pic#Select which sign means rough road?#Files/110.png

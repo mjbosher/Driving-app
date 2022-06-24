@@ -1,0 +1,21 @@
+PicText#Why is the car not turning in the right place?|Files/movement3.jpg#markings,forbid,tram tracks
+PicText#Which path is best for turning?|Files/movement4.jpg#b, extreme position
+Text#Which lane can you enter/exit roundabout from?#any
+Text#Which lane on the round about has priority?#outer,lanes
+Text#Exceptions for turning in extreme position?#roundabout,signs,markings,long vehicles,cant make, turn
+Text#Who has advantage on roundabout?Vechiles on it or entering it?#on
+PicText#What sign number is this?|Files/410.jpg#4.10
+PicText#What does this sign indicate?|Files/410.jpg#roundabout
+Pic#Select which sign is a roundabout?#Files/410.jpg
+Pic#Select which sign is sign 4.10?#Files/410.jpg
+Text#During lane change who has the advantage?#driver,not changing
+Text#when both cars want to change lanes at the same time who has priority?#driver,to,right
+PicText#Who has priority?|Files/movement5.jpg#truck
+Text#Where are u-turns not allowed?#dangerous places
+Text#Where are u-turns prohibited?#bridges,flyovers,overpasses,tunnels
+Text#In which situation are u-turns forbidden?#carrying capacity, limited,narrow carriageways,limited visibility
+Text#What distance in meters should you be able to see before dojng a u-turn?#100,meters
+Text#What is limited visibility?#cant predict,traffic situation,what to expect,not being able to see
+PicText#Why cant you do a uturn here?|Files/movement6.jpg#blindspot
+Text#How far from crossings must the car be before doing a u-turn?#10,meters
+Text#How to make a u-turn at narrow intersections?#give way to pedestrians,center of,intersection

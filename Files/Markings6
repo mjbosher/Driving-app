@@ -1,0 +1,22 @@
+PicText#What do these markings mean?|Files/directionmarkings.jpg#direction of traffic,lane
+PicText#What does this mean?|Files/516.jpg#direction,traffic
+PicText#What is the sign number for this?|Files/516.jpg#5.16
+PicText#What does this mean?|Files/stopgiveway.png#stop,give way
+PicText#What does this mean?|Files/approachingstop.png#approaching,stop,give way
+PicText#What does this mean?|Files/narrowing.png#approaching,narrowing,carriageway
+PicText#What must be done when approaching this sign?|Files/approachingstop.png#reduce speed
+PicText#What does this mean?|Files/stop.jpg#approaching,stop line,reduce,speed
+PicText#What is the sign number for this?|Files/stop.jpg#2.2
+PicText#What must be done when approaching this sign?|Files/stopmarking.jpg#reduce speed,stop,without,emergency,brakes
+PicText#What does this mean?|Files/stopmarking.jpg#approaching,stop line,reduce,speed
+PicText#What does this mean?|Files/approachingbump.png#approaching,speed bump
+Text#What color can vertical markings be?#red,white,black
+Text#What do vertical markings show?#dimensions,road structures,elements of road equipment,warns,danger
+PicText#What does this mean?|Files/vertical1.jpg#lower edge,structure,less than,5 meters
+PicText#Where are these signs used?|Files/vertical1.jpg#bridges,overpasses,tunnels
+PicText#What does this mean?|Files/guideposts.jpg#edge,road
+Text#What side is the red guide post on?#right,side
+Text#What side is the white guide post on?#left,side
+PicText#What does this mean?|Files/shoulder.jpg#dangerous,section,road
+PicText#What should be done when this sign is seen?|Files/shoulder.jpg#slow,down
+PicText#What does this mean?|Files/fence.jpg#curb,dangerous,section,road

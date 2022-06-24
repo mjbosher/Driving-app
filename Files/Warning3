@@ -1,0 +1,10 @@
+Text#From which side is it permitted to overtake no rail vehicles?#left
+Text#When can a driver who has overtaken remain on the oncoming lane?#have to,overtake,again,if,not obstacle,oncoming vehicles,vehicles behind him
+Text#rules of overtaking?#vehicles behind,not initiate,overtake,vehicle,in front,not,indicated,change,lane,oncoming lane,free,can return,lane,without,creating,obstacle
+Text#What must driver do during overtaking before moving onto the oncoming lane?#check,rearview,other,vehicles,initiate,overtake,then,turn on,indicator
+PicText#Why is this illegal?|Files/overtaken.jpg#vehicle,overtaken,not allowed,hinder,increasing speed
+Text#What must a large vehicle or a slow moving vehicle do outside of settlements if traffic?#give way,move to, shoulder
+Text#Where is overtaking forbidden?#crossroads,100 meters before,railroad crossing,signs,bridges,flyovers,overpasses,limited observability,double overtake,tunnels
+Text#rules for overtaking near a pedestrian crossing?#50 meters before pedestrian crossing in settlements, 100 meters before pedestrian crossings out of settlements
+Text#Can you overtake if you see sign 5.16?#no
+PicText#Why is this illegal?|Files/double.jpg#double overtake

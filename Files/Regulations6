@@ -1,0 +1,20 @@
+Text#What does it mean for all vehicles in front of the traffic guards chest when he has his arm extended on the left side#right
+Text#What does it mean for all vehicles in front of the traffic guards right and back when he has his arm extended on the left side#cant,move
+PicText#Which direction can the tram move?|Files/guard2.png#left
+PicText#Which direction can non-rail vehicles move?|Files/guard2.png#any, direction
+PicText#Which direction can non-rail vehicles move?|Files/guards2.jpg#left
+PicText#Which direction can non-rail vehicles move?|Files/guards3.jpg#cant,move
+PicText#Which direction can non-rail vehicles move?|Files/guards4.jpg#cant,move
+PicText#Which direction can non-rail vehicles move?|Files/guards5.jpg#straight,left
+PicText#Which direction can non-rail vehicles move?|Files/guards4.jpg#any,direction
+PicText#Answer the question?|Files/question9.png#2
+PicText#Can we turn right here?|Files/question10.png#yes,give way,pedestrians
+PicText#Which directions can we move?|Files/question11.png#straigh,right
+PicText#Answer the question?|Files/question12.png#1
+PicText#Answer the question?|Files/question13.png#1
+PicText#why cant the tram move?|Files/question13.png#no tracks,left
+PicText#Answer the question?|Files/question14.png#2
+PicText#Answer the question?|Files/question15.png#3
+Text#Request by police to stop vehicle submitted by what?#signal disk with red signal,reflector,hand
+PicText#Answer the question?|Files/question16.png#2
+PicText#How should you act if police ask you to stop?|Files/question17.png#stop,place,police,asks

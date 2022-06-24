@@ -1,0 +1,21 @@
+Text#What is the maximum speed outside of settlements?#90
+Text#What is the maximum speed on the motorway?#130
+Text#What is the maximum speed in settlements?#50
+Text#What is the maximum speed on roads for cars?#110,if,dividing,strip
+Text#What is the maximum speed in residential areas and pedstrian areas?#20
+Text#How is the maximum speed determined?#class of the road,type of vehicle,road signs
+Text#When are temporary speed limit signs placed?#road works,mass,special,events,natural disaster
+Text#How to determine if sign is temporary speed limit?#yellow,background
+Text#Is the driver liable if speed limit signs are left after events?#no
+PicText#Answer the question?|Files/question18.png#2
+Text#Where are permanent speed restrictions placed?#dangerous sections,road,unregulated pedestrian crossings,stationary police posts,schools
+Text#What is installed alongside signs limiting speed?#signs,nature,danger
+PicText#Answer the question?|Files/question19.png#1
+PicText#What does this sign mean?|Files/329.jpg#50,km,speed limit
+PicText#What is the number of this sign?|Files/329.jpg#3.29
+Pic#Select which is sign 3.29?#Files/329.jpg
+Pic#Select which sign means 50 km speed limit?#Files/329.jpg
+PicText#What is the rules about this signs validity?|Files/329.jpg#valid,nearest,intersection
+PicText#What will be the speed limit after the sign?|Files/speed.jpg#90,kmph
+Text#What is excessive speed?#driving,above,speed limit
+Text#What is inappropriate speed?#not,exceeding,speed limit,driving,too fast,condition

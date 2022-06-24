@@ -1,0 +1,19 @@
+Text#Should indicators be turned on before or after movement#before,movement
+Text#How should the maneuver be executed?#clear,safe,other road users
+Text#When starting movement who should you give way to?#All,road,users
+Text#Who must you give way to when leaving adjacent territories?#give way,pedestrians,vehicles,sidewalk,carriageway, in front of you
+Text#what signalling device will you use when you start your movement#depends,future direction of movement
+PicText#Who should give way?|Files/movement1.jpg#blue car,give way,pedestrian,white car
+PicText#Who should give way?|Files/movement2.jpg#blue car,give way,truck
+Text#What should be done before turning left or right?#extreme position
+Text#What precautions should be taken when turning left?#vehicle,not,end up, on,oncoming lane
+PicText#What sign number is this?|Files/5102.jpg#5.10.2
+PicText#What does this sign indicate?|Files/5102.jpg#leftward,one-way street,reverse lane,public transport
+Pic#Select which sign is a leftward one way street with a reverse lane for public transport?#Files/5102.jpg
+Pic#Select which sign is sign 5.10.2?#Files/5102.jpg
+PicText#What sign number is this?|Files/58.jpg#5.8
+PicText#What does this sign indicate?|Files/58.jpg#forward,one-way street,reverse lane,public transport
+Pic#Select which sign is a forward one way street with a reverse lane for public transport?#Files/58.jpg
+Pic#Select which sign is sign 5.8?#Files/58.jpg
+Text#When turning left, where should it be done from?#first,lane,obstacle,drivers
+Text#When turning left, how to change into the second lane?#move,first lane,then change,second lane

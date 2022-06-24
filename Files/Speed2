@@ -1,0 +1,23 @@
+Text#What is the maximum speed for all vehicles in settlements?#50
+Text#What is the speed for motorbikes outside of settlements?#80
+Text#What is the min/max speed for motorbikes on motorways?#40,80
+Text#What is the min/max speed for cars outside of settlements?#90,110
+Text#What is the min/max speed for cars on motorways?#40,130
+Text#What is the min/max speed for cars with trailers outside of settlements?#80
+Text#What is the min/max speed for cars with trailers on motorways?#40,80
+Text#What is the min/max speed for trucks outside of settlements?#90,110
+Text#What is the min/max speed for trucks on motorways?#40,130
+Text#What is the min/max speed for trucks with people outside of settlements?#60
+Text#What is the min/max speed for trucks with people on motorways?#40,60
+Text#What is the min/max speed for buses outside of settlements?#90
+Text#What is the min/max speed for buses on motorways?#40,90
+Text#What is the min/max speed for mopeds outside of settlements?#60
+Text#What is the min/max speed for mopeds on motorways?#40,60
+Text#What is the min/max speed for organised transport of children  outside of settlements?#80
+Text#What is the min/max speed for organised transport of children on motorways?#40,80
+Text#What is the min/max speed for minibuses outside of settlements?#90,110
+Text#What is the min/max speed for minibuses with people on motorways?#40,130
+Text#What is the min/max speed for new drivers outside of settlements?#70
+Text#What is the min/max speed for new drivers people on motorways?#40,70
+Text#What is the min/max speed for towing outside of settlements?#50
+Text#What is the min/max speed for towing on motorways?#40,50

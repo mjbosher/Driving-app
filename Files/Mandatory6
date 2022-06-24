@@ -1,0 +1,21 @@
+PicText#What does this sign mean?|Files/318.png#movement,prohibited,vehicles,height,greater
+PicText#What is the number of this sign?|Files/318.png#3.18
+Pic#Select which is sign 3.18?#Files/318.png
+Pic#Select which sign means movement is prohibited for vehicles whose height is greater than stated?#Files/318.png
+PicText#What does this sign mean?|Files/320.png#movement,vehicles,without,distance,prohibited
+PicText#What is the number of this sign?|Files/320.png#3.20
+Pic#Select which is sign 3.20?#Files/320.png
+Pic#Select which sign means movement without keeping the stated distance in meters is prohibited?#Files/320.png
+PicText#What does this sign mean?|Files/321.png#entry,prohibited
+PicText#What is the number of this sign?|Files/321.png#3.21
+Pic#Select which is sign 3.21?#Files/321.png
+Pic#Select which sign means entry is prohibited?#Files/321.png
+Text#What can sign 3.21 be used for?#prevent, oncoming traffic, entering,one-way, organizing,entry, places
+PicText#What does this sign mean?|Files/322.png#turning,right,prohibited
+PicText#What is the number of this sign?|Files/322.png#3.22
+Pic#Select which is sign 3.22?#Files/322.png
+Pic#Select which sign means turning to the right is prohibited?#Files/322.png
+PicText#What does this sign mean?|Files/323.png#turning,left,prohibited
+PicText#What is the number of this sign?|Files/323.png#3.23
+Pic#Select which is sign 3.23?#Files/323.png
+Pic#Select which sign means turning to the left prohibited?#Files/323.png

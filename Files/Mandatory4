@@ -1,0 +1,20 @@
+PicText#What does this sign mean?|Files/39.png#movement,prohibited,for pedestrians
+PicText#What is the number of this sign?|Files/39.png#3.9
+Pic#Select which is sign 3.9?#Files/39.png
+Pic#Select which sign means movement is prohibited for pedestrians?#Files/39.png
+PicText#What does this sign mean?|Files/310.png#movement,prohibited,pedestrians,cart
+PicText#What is the number of this sign?|Files/310.png#3.10
+Pic#Select which is sign 3.10?#Files/310.png
+Pic#Select which sign means movement is prohibited for pedestrians with hand cart?#Files/310.png
+Text#Where does sign 3.9 and 3.10 apply?#side,installed
+PicText#What does this sign mean?|Files/311.png#movement,prohibited,horse-drawn,carts
+PicText#What is the number of this sign?|Files/311.png#3.11
+Pic#Select which is sign 3.11?#Files/311.png
+Pic#Select which sign means movement is prohibited for horse-drawn carts?#Files/311.png
+Text#What else does sign 3.11 prohibit?#driving,livestock
+PicText#What does this sign mean?|Files/312.png#movement,prohibited,vehicles,carrying,dangerous,goods
+PicText#What is the number of this sign?|Files/312.png#3.12
+Pic#Select which is sign 3.12?#Files/312.png
+Pic#Select which sign means movement is prohibited for vehicles carrying dangerous goods?#Files/312.png
+PicText#What does this sign mean?|Files/313.png#movement,prohibited,vehicle,carrying,explosives
+PicText#What is the number of this sign?|Files/313.png#3.13

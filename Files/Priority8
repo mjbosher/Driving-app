@@ -1,0 +1,19 @@
+Text#Where is sign 1.24 installed?#first,intersection,settlement,regulated pedestrian crossing,visibility of traffic lights,less than, 100 meters
+Text#What should vehicles be prepared to do when they see sign 1.24?#slow down, stop
+PicText#What does this sign mean?|Files/125.png#drawbridge
+PicText#What is the number of this sign?|Files/125.png#1.25
+Pic#Select which is sign 1.25?#Files/125.png
+Pic#Select which sign means drawbridge?#Files/125.png
+Text#How far from the drawbridge is sign 1.25 installed?#50 meters
+Text#When is sign 1.25 repeated?#outside,settlements
+PicText#What does this sign mean?|Files/126.png#two-way,traffic
+PicText#What is the number of this sign?|Files/126.png#1.26
+Pic#Select which is sign 1.26?#Files/126.png
+Pic#Select which sign means two-way traffic?#Files/126.png
+Text#Where is sign 1.26 installed?#end,one-way
+Text#Is sign 1.26 still installed if one-way road has a cancel sign?#yes
+Text#What must drivers do when they see sign 1.26?#slow,change,right
+PicText#What does this sign mean?|Files/127.png#railway crossing, barrier
+PicText#What is the number of this sign?|Files/127.png#1.27
+Pic#Select which is sign 1.27?#Files/127.png
+Pic#Select which sign means railway crossing with a barrier?#Files/127.png

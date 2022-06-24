@@ -1,0 +1,15 @@
+PicText#Answer the question?|Files/overtakequestion.png#3
+PicText#Answer the question?|Files/overtakequestion1.png#3
+Text#Can you overtake a convoy with a flashing beacon at each end?#no,unless,beacon,orange
+PicText#Answer the question?|Files/overtakequestion2.png#2
+Text#Who can tractors overtake?#bicycles
+PicText#What does this sign mean?|Files/325.jpg#no, overtaking
+PicText#What is the number of this sign?|Files/325.jpg#3.25
+Pic#Select which is sign 3.25?#Files/325.jpg
+Pic#Select which sign means no overtaking?#Files/325.jpg
+PicText#What is the exception for this sign?|Files/325.jpg#can,overtake,less,30
+PicText#What is the exception for this sign?|Files/327.jpg#can,overtake,less,30
+PicText#What does this sign mean?|Files/327.jpg#no, overtaking, trucks, heavy goods
+PicText#What is the number of this sign?|Files/327.jpg#3.27
+Pic#Select which is sign 3.27?#Files/327.jpg
+Pic#Select which sign means no overtaking by heavy goods?#Files/327.jpg

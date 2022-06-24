@@ -1,0 +1,23 @@
+Text#Is stopping allowed where parking is not?#no
+PicText#What does this sign mean?|Files/338.jpg#no parking zone
+PicText#What is the number of this sign?|Files/338.jpg#3.38
+Pic#Select which is sign 3.38?#Files/338.jpg
+Pic#Select which sign means no parking zone?#Files/338.jpg
+PicText#Who is excempt from this sign?|Files/338.jpg#disabled drivers,identification marks,taxis
+PicText#Who is excempt from this sign?|Files/disabled.jpg#road vehicles,taxis,disabled drivers
+PicText#What does this mean?|Files/parking1.jpg#cant,stop,park,road,junction
+PicText#Where does this apply to?|Files/338.jpg#both sides,road
+Text#How far from railroad crossings can you park?#50 meters
+Text#How far from blindspots is parking prohibited?#100 meters
+Text#Can you stop in places of insufficient visibility outside of settlements?#yes
+Text#How far from containers with household waste can you park?#5 meters
+PicText#Why cant you stop here?|Files/stopping2.jpg#creates obstacle,pedestrians,vehicles
+PicText#What does this sign mean?|Files/336.jpg#no parking,odd,days
+PicText#What is the number of this sign?|Files/336.jpg#3.36
+Pic#Select which is sign 3.36?#Files/336.jpg
+Pic#Select which sign means no parking on odd numbered days?#Files/336.jpg
+PicText#What does this sign mean?|Files/337.jpg#no parking,even
+PicText#What is the number of this sign?|Files/337.jpg#3.37
+Pic#Select which is sign 3.37?#Files/337.jpg
+Pic#Select which sign means no parking on even numbered days?#Files/337.jpg
+Text#Who is excempt from signs 3.37 and 3.36?#disabled drivers,taxis

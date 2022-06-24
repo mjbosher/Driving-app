@@ -1,0 +1,20 @@
+Text#On roads with two or more lanes where should you drive?#right,edge
+PicText#Is the car violating the traffic rules?|Files/movement11.png#yes
+PicText#Where should he be driving?|Files/movement11.png#extreme,right 
+PicText#Is the car violating the traffic rules?|Files/movement12.jpg#no
+Text#Can drivers overtake on a two way road with one lane for traffic in each direction?#no solid line, no oncoming traffic
+PicText#Can the yellow car overtake the red car?|Files/movement13.jpg#no
+Text#What size must the lane be?#no less, 2.75 meters
+PicText#How many lanes on this road?|Files/movement14.jpg#2, lanes
+PicText#Why is this prohibited?|Files/movement15.jpg#dangerous,unpredictable, for other road users,reduces capacity
+Text#Can you change lanes in heavy traffic?#avoid obstacle,turn,u-turn,stop
+Text#What must be done during heavy traffic?#same lane,understandable,predictable,other road users,preselected lane
+Text#Where must vehicles which can not drive faster than 40kmph move?#extreme,right
+Text#What are the exceptions for vehicles who cant move faster than 40kmph?#turn,u-turn,overtaking,bypassing
+Text#What speed is considered a slow moving vehicle?#below,40
+Text#Where is movement allowed on the carriageway for cyclists,mopeds and horses?#extreme,right
+Text#What are the exception for movement allowed on the carriageway of cyclists,mopeds and horses?#detours
+Text#Rules on the carriageway for cyclists,mopeds and horses making u-turn,turning left?#one lane,no tram
+Text#can cyclists,mopeds and horses drive on shoulder of carriageway?#yes,obstacle
+PicText#Can cyclist turn left here?|Files/movement16.jpg#yes
+PicText#Who has right of way here?|Files/movement16.jpg#car

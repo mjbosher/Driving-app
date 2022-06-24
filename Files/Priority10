@@ -1,0 +1,19 @@
+PicText#What does this sign mean?|Files/129.png#single, track, railway
+PicText#What is the number of this sign?|Files/129.png#1.29
+Pic#Select which is sign 1.29?#Files/129.png
+Pic#Select which sign means single track railway?#Files/129.png
+PicText#What does this sign mean?|Files/130.png#multi-track, railway
+PicText#What is the number of this sign?|Files/130.png#1.30
+Pic#Select which is sign 1.30?#Files/130.png
+Pic#Select which sign means multi-track railway?#Files/130.png
+Text#How are signs 1.29 and 1.30 installed?#directly,in front,railway crossing,without,barrier
+Text#What do signs 1.29 and 1.30 indicate?#border,railway crossing
+PicText#What does this sign mean?|Files/132.png#warns,pedestrian,crossing
+PicText#What is the number of this sign?|Files/132.png#1.32
+Pic#Select which is sign 1.32?#Files/132.png
+Pic#Select which sign warns of pedestrian crossing?#Files/132.png
+Text#Where is sign 1.31 installed?#before,unregulated pedestrian crossings,outside, settlements
+PicText#What does this sign mean?|Files/133.png#children
+PicText#What is the number of this sign?|Files/133.png#1.33
+Pic#Select which is sign 1.33?#Files/133.png
+Pic#Select which sign warns of children?#Files/133.png

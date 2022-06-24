@@ -1,0 +1,20 @@
+Text#What do guide posts do?#improve,visibility
+Text#What should guide posts have?#reflectors,vertical markings
+Text#What are convex mirrors used for?#improve visibility,intersections,dangerous places,insufficient visibility
+Text#Where are guard rails placed?#overpasses,bridges,dangerous places
+Text#Where are pedestrian fences placed?#places,crossing,dangerous
+Text#At traffic lights with a tram who has priority?#tram
+Text#Under what circumstance should you not move if there is a green light?#traffic guard,vehicles,pedestrians,maneuver,traffic jam
+Text#if there is a traffic jam at the intersection and the light is green what can you do?#turn,u-turn,not,forward
+Text#At green lights where there are cyclists and pedestrians wanting to move straight and you want to turn who should give way?#you,give way,cyclists,pedestrians
+Text#What do green signals in the form of an arrow on a black background mean?#movement,in,that direction
+Text#What can be used to inform drivers about the time remaining until the end of the green signal?#digital display with time in seconds
+Text#What does a solid yellow light do?#prohibits, movement
+Text#Must you stop at a yellow solid light?#no, continue,driving,if, cant stop,without, emergency brakes
+Text#What do yellow flashing lights indicate?#unregulated pedestrian crossing
+PicText#Can you move if these lights are flashing?|Files/yellowflashing.png#yes
+Text#Who has right of way on th road?#on,it
+Text#What does a combination of red and yellow signals mean?#prevents,movement,informs,green
+PicText#Answer the question?|Files/question1.png#1
+PicText#Answer the question?|Files/question2.png#3
+PicText#Answer the question?|Files/question3.png#1

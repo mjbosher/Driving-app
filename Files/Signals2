@@ -1,0 +1,19 @@
+Text#2 types of railway crossings?#regulated,unregulated
+Text#Do Flashing signals have advantage over a train?#no
+Text#What does flashing white signal mean on railway crossing?#traffic,lights,working
+Text#What happens to road signs at a railway crossing if lights working?#void
+Text#Can 2 lanes be formed at railway crossing?#only,if,signs,markings
+Text#if there are no road signs or markings how should one approach a railway crossing?#1 row
+Text#How far from the railroad crossing can you park?#50,meters
+Text#At a level crossing how should one approach it?#stable,speed,without,stopping
+Text#How should agricultural machinery approach level crossing?#tranport mode,tools,might,caught,track
+Text#What should be done during a forced stop at level crossing?#disembark people,turn on,alarm,free,crossing
+Text#What should be done during a forced stop at a level crossing if the track cant be freed?#2 people,1,km,both,directions,stop train
+Text#During a forced stop at a level crossing what should you do if train appears?#run,towards,stop,signal
+Text#What is stop signal for locomotives?#circle,around,body,with,reflective,object,clothes
+Text#What should be the stop signal at night or in insufficient visibility for locomotives?#same,as,day,with,torch
+Text#How many drivers are needed to move livestock across a level crossing?#no less,3
+Text#What constitutes a convoy?#3,to,5,vehicles,move,together,same,direction,low beam
+Text#How should convoys move?#right,edge,unless,guided,operational vehicle
+PicText#What does this sign mean?|Files/convoy.png#column
+Text#What should each member of the convoy have?#column sign,unless,guided,operational,vehicle

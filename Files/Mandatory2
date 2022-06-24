@@ -1,0 +1,19 @@
+PicText#What does this sign mean?|Files/32.png#motor,vehicles,prohibited
+PicText#What is the number of this sign?|Files/32.png#3.2
+Pic#Select which is sign 3.2?#Files/32.png
+Pic#Select which sign means that motor vehicles are prohibited?#Files/32.png
+Text#What is classified as a motor vehicle?#mopeds,motorcycles,trucks,cars,buses,tractors
+Text#What is not classified as a motor vehicle?#carts,bicycles
+PicText#What does this sign mean?|Files/33.png#movement,trucks,prohibited
+PicText#What is the number of this sign?|Files/33.png#3.3
+Pic#Select which is sign 3.3?#Files/33.png
+Pic#Select which sign means the movement of trucks is prohibited?#Files/33.png
+Text#What is the maximum weight for sign 3.3?#more than 3.5 tons,or,exceeding,stated,amount
+Text#Are tractors allowed to move through sign 3.3 if they are less than the weight specified?#no
+Text#what are the exceptions for sign 3.3?#mail service, carrying groups of people,work,live
+PicText#What does this sign mean?|Files/34.png#movement,prohibited,vehicles,pulling,trailers
+PicText#What is the number of this sign?|Files/34.png#3.4
+Pic#Select which is sign 3.4?#Files/34.png
+Pic#Select which sign means no vehicles pulling trailers?#Files/34.png
+Text#What is the exception for sign 3.4?#passenger cars,trailers
+Text#Can you tow when you seen sign 3.4?#no,towing,prohibited

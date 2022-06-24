@@ -1,0 +1,21 @@
+PicText#What sign number is this?|Files/51.jpg#5.1
+PicText#What does this sign indicate?|Files/51.jpg#dual,carriageway,begins
+Pic#Select which sign is 'dual carriagway begins'?#Files/51.jpg
+Text#If you see sign 5.1 can you do a u-turn?#no,forbidden,motorways,high speed
+Text#What are technological breaks used for?#operational vehicles,road works
+Text#Can you make a u-turn on a technological break?#No
+PicText#What is this?|Files/techbreak.jpg#technological break
+PicText#What is this used for?|Files/techbreak.jpg#operational vehicles,road works
+PicText#Can you u-turn here?|Files/techbreak.jpg#no
+Pic#Select which is a technological break?#Files/techbreak.jpg
+Text#Where is reversing not allowed?#motorway,railroad crossing,pedestrian crossing,crossroads,tunnels,bridges,overpasses,flyovers
+PicText#why cant you reverse here?|Files/movement7.jpg#limited observability,blindspot
+PicText#why cant you reverse here?|Files/movement8.jpg#insufficient observability,fog
+PicText#What sign number is this?|Files/55.jpg#5.5
+PicText#What does this sign indicate?|Files/55.jpg#one,way,road,begins
+Pic#Select which sign is 'oneway road begins'?#Files/55.jpg
+Text#Can you reverse on a oneway road?#yes,if,dont,create,obstacle,other drivers
+Text#What is priority to the right rule?#required,give way,vehicles,right
+Text#What happens to priority to the right when there is a priority sign?#priority sign,advantage
+PicText#Who has right of way here?|Files/movement9.jpg#red car
+PicText#Who has right of way here?|Files/movement10.jpg#green

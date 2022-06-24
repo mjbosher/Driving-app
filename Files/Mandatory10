@@ -1,0 +1,20 @@
+PicText#What does this sign mean?|Files/49.png#detour,obstacle,left,right
+PicText#What is the number of this sign?|Files/49.png#4.9
+Pic#Select which is sign 4.9?#Files/49.png
+Pic#Select which sign means allowed to detour from the left and left?#Files/49.png
+Text#Does sign 4.10 give any advantage?#no
+Text#What do the arrows on sign 4.10 indicate?#movement,in,direction
+Text#Where can priority signs be placed when you see sign 4.10?#before,roundabout
+Text#Who has priority vehicles entering the roundabout or vehicles on it?#on,it
+PicText#What does this sign mean?|Files/411.png#movement,of,cars
+PicText#What is the number of this sign?|Files/411.png#4.11
+Pic#Select which is sign 4.11?#Files/411.png
+Pic#Select which sign means movement of cars?#Files/411.png
+Text#What does sign 4.11 mean?#only,cars,buses,motorcycles,trucks,allowed,not exceeding,3.5 tons
+Text#Who does 4.11 not apply to?#drivers,live,work,area
+Text#Where can drivers who the exception of sign 4.11 apply to, enter/exit the road?#nearest,intersection,to,destination
+PicText#What does this sign mean?|Files/413.png#footpath
+PicText#What is the number of this sign?|Files/413.png#4.13
+Pic#Select which is sign 4.13?#Files/413.png
+Pic#Select which sign means footpath?#Files/413.png
+Text#Who can move when they see sign 4.13?#only,pedestrians

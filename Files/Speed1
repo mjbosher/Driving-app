@@ -1,0 +1,19 @@
+Text#What is safe speed?#speed,driver,safetly,control,movement
+Text#Can safe speed be higher than permited speed?#no
+Text#What is permited speed?#speed limit
+Text#What must a driver take into consideration when determining speed?#road conditions,visibility,surface,traffic flow,cargo,condition of the car,car capabilities
+Text#What is safe speed at night or insufficient visibility?#less than,visibility distance
+Text#What happens when your speed is doubled?#braking distance,increases,4 times
+Text#What is braking distance?#path,brakes,pressed
+Text#What is stopping distance?#path,danger,full,stop
+Text#What is thinking distance?#path,notices,hazard
+Text#Which is bigger stopping distance or braking distance?#stopping
+Text#In insufficient visibility what should stopping distance be?#less than,visibility
+Text#What is the rule of 2 seconds?#distance,travels,2,seconds,safe distance
+Text#What is safe distance?#distance,vehicle,in front,sudden braking,prevent, collision,without,maneuver
+Text#What happens to safe distance when speed increases?#higher,safe distance
+Text#What happens to eye sight when speed increases?#narrows
+Text#What is tunnel vision?#eye,narrows,speed,high
+Text#What happens when speed increases 2 time?#braking distance, 4 times
+Text#In event of an obstacle on the road what should the procedure be?#brake,then,maneuver
+Text#What is obstacle for movement?#vehicles,stationary obstacles,same lane

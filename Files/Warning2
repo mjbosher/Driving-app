@@ -1,0 +1,15 @@
+Text#What must be in all cars?#first aid,extinguisher,emergency stop sign
+Text#Where must hazard lights be turned on?#motorway,road for cars,except,designated areas,limited visibility,less than,100 meters
+Text#What must you do if you are stopped by the police?#hazard lights
+Text#What must you do if you are dazzled?#hazard lights
+Text#What must you do if your car is moving with a malfunction?#hazard lights
+Text#What must you use if you are towing?#hazard lights
+Text#What should you do if there is a traffic accident?#hazard lights
+Text#In case of an accident,forced stop with limited visibility what must you do?#hazard lights,emergency stop,20 meters, settlement,40 meters,outside of settlements,flashing red light
+Text#What must you do if your car is not equipped with hazard lights?#secure,warning triangle,flashing light,back,window
+Text#What do you need to use from the 1st of October to the 1st of May?#daytime running lights,low beam
+PicText#What maneuver is this?|Files/advancing.png#advancing
+Text#What does advancing mean?#passing,vehicle,high speed,adjacent lane
+PicText#What maneuver is this?|Files/overtaking.jpg#overtaking
+Text#What does overtaking mean?#passing,vehicle,high speed,adjacent lane, moving back,lane
+Text#What is a detour?#moving,stationary,vehicles

@@ -1,0 +1,20 @@
+PicText#What does this sign mean?|Files/418.png#movement,vehicles,dangerous,goods
+PicText#What is the number of this sign?|Files/418.png#4.18
+Pic#Select which is sign 4.18?#Files/418.png
+Pic#Select which sign means movement of vehicles whit dangerous goods?#Files/418.png
+PicText#What does this sign mean?|Files/antislip.png#driving,use,of,antislip
+PicText#What is the number of this sign?|Files/antislip.png#4.19
+Pic#Select which is sign 4.19?#Files/antislip.png
+Pic#Select which sign means driving with the use of antislip?#Files/antislip.png
+Text#Why is sign 4.19 used?#without, antislip, driving, impossible
+PicText#What does this sign mean?|Files/342.png#end,all,restrictions,prohibition
+PicText#What is the number of this sign?|Files/342.png#3.42
+Pic#Select which is sign 3.42?#Files/342.png
+Pic#Select which sign means end of all prohibition and restrictions?#Files/342.png
+Text#Which signs does 3.42 cancel?#3.20,3.25,3.27,3,29,3.34,3.35,3.36,3.37
+PicText#What does this sign mean?|Files/333.png#prohibited,excessive,noise,horn
+PicText#What is the number of this sign?|Files/333.png#3.33
+Pic#Select which is sign 3.33?#Files/333.png
+Pic#Select which sign means excessive noise and horn prohibited?#Files/333.png
+PicText#Answer the question|Files/prohibition1.jpg#a,b
+PicText#Answer the question|Files/prohibition2.jpg#a,b,c,d

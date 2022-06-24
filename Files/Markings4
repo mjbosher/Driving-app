@@ -1,0 +1,22 @@
+PicText#What are the double white lines in the middle of the road used for?|Files/doublesolid.jpg#separates,opposite direction,traffic,4,more,lanes
+Text#What are the double white lines in the middle of the road used for?#separates,opposite direction,traffic,4,more,lanes
+PicText#What do the white lines on the side of the road mean?|Files/broken_white.jpg#edge,carriageway
+Text#Rules for crossing the white lines on the side of the road?#right,forced,stop
+Text#What do dashed lines with a stroke length twice the spacing between them mean#warns,approaching,markings
+Text#What is an acceleration/deceleration lane?#driver,speed up,slow down,match,flow,traffic
+Text#What do wide dashed lines on the edge of the carriageway indicate#acceleration,deceleration,zone
+Text#Rules for entering road from acceleration zone?#must give way,vehicles
+PicText#What sign number is this?|Files/5201.jpg#5.20.1
+PicText#What sign number is this?|Files/5211.jpg#5.21.1
+PicText#What does this sign indicate?|Files/5201.jpg#lane,right,begins
+PicText#What does this sign indicate?|Files/5211.jpg#right,lane,ends
+Pic#Select which road sign is used to indicate that a right lane begins#Files/5201.jpg
+Pic#Select which road sign indicates that a right lane ends#Files/5211.jpg
+Text#What do broken double lines with strokes twice as long as the spaces between them indicate#reverse lane
+PicText#What do the double white lines indicate?|Files/reverselane.jpg#reverse lane
+Pic#Select which road sign shows a reverse lane#Files/reverselane.jpg
+Text#What is a reverse lane?#allows,both,directions
+PicText#What sign number is this?|Files/526.jpg#5.26
+PicText#What does this sign indicate?|Files/526.jpg#u-turns,allowed
+PicText#What sign number is this?|Files/78.jpg#7.8
+PicText#What does this sign indicate?|Files/78.jpg#diagram,road,priority

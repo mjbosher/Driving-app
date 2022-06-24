@@ -1,0 +1,21 @@
+PicText#Does the driver of the white car violate the traffic rules?|Files/stopping1.jpg#no,shoulder,dangerous
+Text#On motorways and roads for cars where can you stop?#special,marked,places
+Text#Which side of the road can you stop on?#side,right side,direction,traffic
+Text#When is stopping allowed on the left side of the road?#one-way roads,in settlements,one lane,each direction,no solid line,tram,settlements
+Text#Can you stop on the left when you see sign 5.47#no,not,until,leave,road
+PicText#Answer the question?|Files/stopping2.png#2
+PicText#which picture shows cars parked correctly on a road in settlements?|Files/stopping3.png#2
+Text#Can you stop on the left outside of settlements?#no,lights,disorient,approaching,drivers
+Text#Can you park on the road or its shoulder at night or insufficient observability?#no,vehicle,off,road,or,special,places
+Text#How should passengers leave the vehicle?#left,not,direction,adjacent vehicle traffic lane,must not interfere,pedestrians
+Text#What must the driver do when he leaves the vehicle?#vehicle,cant,move,hand brake,turn on the gear,remove key,doors closed,anti theft device,switched on
+Text#When parking with other vehicles how should you park?#one row,parallel,edge,carriageway
+Text#How can bicyles,mopeds and motor bikes without a side trailer be parked?#double parked, 2 rows
+Text#Where can you angle park?#places,not,interfere,movement,traffic,sidewalk,pedestrian traffic,front end,car
+Text#exception for parking on sidewalk?#slopes
+Text#Can you park on or near the median strip?#no
+Text#Can you park on a descent/ascent?#yes,not,create,obstacle,excludes,possibility,spontaneus,movement
+Text#How to park on the ascent?#parking brake,first gear,back,angled,pavement
+Text#How to park on the descent?#parking brake,first gear
+Text#On an ascent/descent without sidewalk which direction should wheels be turned?#right
+Text#On an ascent with sidewalk which direction should wheels be turned?#left

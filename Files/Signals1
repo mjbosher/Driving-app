@@ -1,0 +1,20 @@
+Text#Combinations of signal colours?#red and red,blue and blue,blue and green,green,orange
+Text#Can you install a beacon on your own car?#no
+Text#What are the two types of special signals?#flashing beacons,sirens
+Text#What are flashing orange beacons used for?#road maintenance,vehicles,carrying,bulky,heavy goods,vehicles,identification marks
+Text#Where is a blue flashing beacon installed?#traffic safety service, military traffic safety inspection,police, operational rescue service,collection services,fire service
+Text#Where are red and green lights installed?#police, state protection, escorting, vehicles
+Text#What must drivers do when they see a blue signal with a siren?#vehicles,giveway,regardless,direction,movement
+Text#How to giveway to a siren or flashing light?#move,right,edge,clear,intersection
+PicText#Who has right of way?|Files/signal1.png#police
+Text#What must the escorted vehicle do?#dipped beam
+Text#When there is a dividing strip and a red, red and blue flashing light, what must you do?#stop
+Text#what constitutes a dividing strip?#2,solid,lines,10,cm,more
+Text#What must you do if you approach a stationary vehicle with a blue flashing light?#reduce speed,traffic,guard,might,ask,stop
+Text#Rules about convoys?#cant,overtake,take,place,in,convoy,move,along,adjacent,lane
+Text#What color lights should be in front of the convoy?#blue,and,red, only,red
+Text#What color lights should the end vehicle of a convoy have?#green, blue
+Text#Can you overtake a vehicle with red and blue siren?#no
+Text#When must you giveway?#blue,signal
+Text#When must you stop?#red, signal 
+PicText#Answer the question?|Files/signal2.png#1

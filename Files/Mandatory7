@@ -1,0 +1,20 @@
+Text#Can you do a u-turn when you see sign 3.23?#yes
+PicText#What does this sign mean?|Files/324.png#u-turns,prohibited
+PicText#What is the number of this sign?|Files/324.png#3.24
+Pic#Select which is sign 3.24?#Files/324.png
+Pic#Select which sign means u-turns prohibited?#Files/324.png
+Text#Can you turn left when you see sign 3.24?#yes
+Text#When turns are prohibited which lane does it apply to?#nearest, not, affect, other ,lanes
+Text#If there are no end signs or intersections ahead what is the coverage areas of signs such as speed limit?#end,settlement
+Text#What can be installed along with signs to specify coverage?#plates,distance,meters
+PicText#What does this sign mean?|Files/343.png#prohibited,movement,all,road,users
+PicText#What is the number of this sign?|Files/343.png#3.43
+Pic#Select which is sign 3.43?#Files/343.png
+Pic#Select which sign prohibits movement for all road users?#Files/343.png
+PicText#What does this sign mean?|Files/718.png#not,apply,disabled
+PicText#What is the number of this sign?|Files/718.png#7.18
+Pic#Select which is sign 7.18?#Files/718.png
+Pic#Select which sign means does not apply to disabled drivers?#Files/718.png
+Text#Which signs do not apply to route vehicles?#3.1,3.2,3.21,3.22,3.23,3.24,3.34
+Text#Which signs do not apply to disabled drivers?#3.1,3.2,3.35,3.36,3.37,3.38 if plate 7.18
+Text#Which signs do not apply to drivers who live or work in the designated area#3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.11
